@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The TreeWithDetails Component"
+title: The TreeWithDetails Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<TreeWithDetails>`

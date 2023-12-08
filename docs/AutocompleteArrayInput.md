@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The AutocompleteArrayInput Component"
+title: The AutocompleteArrayInput Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<AutocompleteArrayInput>`

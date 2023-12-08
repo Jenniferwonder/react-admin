@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The RichTextInput Component"
+title: The RichTextInput Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<RichTextInput>`

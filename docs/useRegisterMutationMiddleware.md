@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "useRegisterMutationMiddleware"
+title: useRegisterMutationMiddleware
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `useRegisterMutationMiddleware`

@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The Edit Component"
+title: The Edit Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<Edit>`

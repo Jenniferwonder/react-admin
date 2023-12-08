@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Next.Js Integration"
+title: Next.Js Integration
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # Next.js Integration

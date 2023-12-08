@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "ShowGuesser"
+title: ShowGuesser
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<ShowGuesser>`

@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The SimpleList Component"
+title: The SimpleList Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<SimpleList>`

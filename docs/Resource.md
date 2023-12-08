@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The Resource Component"
+title: The Resource Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # The `<Resource>` component

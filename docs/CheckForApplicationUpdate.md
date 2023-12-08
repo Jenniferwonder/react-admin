@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The CheckForApplicationUpdate component"
+title: The CheckForApplicationUpdate component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `CheckForApplicationUpdate`

@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The DualListInput Component"
+title: The DualListInput Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<DualListInput>`

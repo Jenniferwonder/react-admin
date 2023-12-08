@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The SearchWithResult Component"
+title: The SearchWithResult Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<SearchWithResult>`

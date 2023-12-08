@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The SelectInput Component"
+title: The SelectInput Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<SelectInput>`

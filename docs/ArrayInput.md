@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The ArrayInput Component"
+title: The ArrayInput Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<ArrayInput>`

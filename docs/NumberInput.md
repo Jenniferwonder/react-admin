@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The NumberInput Component"
+title: The NumberInput Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<NumberInput>`

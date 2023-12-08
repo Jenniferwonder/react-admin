@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The Admin Component"
+title: The Admin Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<Admin>`

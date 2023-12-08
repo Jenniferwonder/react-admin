@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The Pagination Component"
+title: The Pagination Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<Pagination>`

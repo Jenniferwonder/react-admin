@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The SmartRichTextInput Component"
+title: The SmartRichTextInput Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<SmartRichTextInput>`

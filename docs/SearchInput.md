@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The SearchInput Component"
+title: The SearchInput Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<SearchInput>`

@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The PredictiveTextInput component"
+title: The PredictiveTextInput component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<PredictiveTextInput>`

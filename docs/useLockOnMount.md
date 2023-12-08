@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "useLockOnMount"
+title: useLockOnMount
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `useLockOnMount`

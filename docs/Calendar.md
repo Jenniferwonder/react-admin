@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The Calendar Component"
+title: The Calendar Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<Calendar>`

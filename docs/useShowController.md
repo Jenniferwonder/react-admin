@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "useShowController"
+title: useShowController
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `useShowController`

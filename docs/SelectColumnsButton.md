@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The SelectColumnsButton Component"
+title: The SelectColumnsButton Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<SelectColumnsButton>`

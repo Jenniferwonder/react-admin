@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The EditBase Component"
+title: The EditBase Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<EditBase>`

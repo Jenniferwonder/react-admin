@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The RecordRepresentation Component"
+title: The RecordRepresentation Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<RecordRepresentation>`

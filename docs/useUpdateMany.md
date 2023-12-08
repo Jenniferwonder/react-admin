@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "useUpdateMany"
+title: useUpdateMany
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `useUpdateMany`

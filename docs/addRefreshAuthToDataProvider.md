@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "addRefreshAuthToDataProvider"
+title: addRefreshAuthToDataProvider
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `addRefreshAuthToDataProvider`

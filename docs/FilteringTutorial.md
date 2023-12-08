@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Filtering the List"
+title: Filtering the List
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # Filtering the List

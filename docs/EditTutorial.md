@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The Creation and Edition Pages"
+title: The Creation and Edition Pages
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # The Creation and Edition Pages

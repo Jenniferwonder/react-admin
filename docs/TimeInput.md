@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The TimeInput Component"
+title: The TimeInput Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<TimeInput>`

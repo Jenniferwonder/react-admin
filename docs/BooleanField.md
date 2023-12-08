@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The BooleanField Component"
+title: The BooleanField Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<BooleanField>`

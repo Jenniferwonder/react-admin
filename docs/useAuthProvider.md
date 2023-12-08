@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "useAuthProvider"
+title: useAuthProvider
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `useAuthProvider`

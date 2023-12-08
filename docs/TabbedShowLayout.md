@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "TabbedShowLayout"
+title: TabbedShowLayout
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<TabbedShowLayout>`

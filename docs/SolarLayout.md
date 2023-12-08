@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The SolarLayout Component"
+title: The SolarLayout Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<SolarLayout>`

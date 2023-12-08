@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The ReferenceArrayInput Component"
+title: The ReferenceArrayInput Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<ReferenceArrayInput>`

@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The StackedFilters Component"
+title: The StackedFilters Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<StackedFilters>`

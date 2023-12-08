@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The Title Component"
+title: The Title Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<Title>`

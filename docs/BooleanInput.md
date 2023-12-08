@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "The BooleanInput Component"
+title: The BooleanInput Component
+DateStarted: 2023-12-08
+DateModified: 2023-12-08
 ---
 
 # `<BooleanInput>`
