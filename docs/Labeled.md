@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Labeled
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "Labeled"
 ---
 
 # `<Labeled>`

@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Translating
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "Translating"
 ---
 
 # Translating UI Components

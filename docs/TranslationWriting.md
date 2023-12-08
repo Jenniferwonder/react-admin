@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Writing An I18nProvider
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "Writing An I18nProvider"
 ---
 
 # Writing An I18nProvider

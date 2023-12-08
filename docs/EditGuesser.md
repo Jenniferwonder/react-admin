@@ -1,8 +1,6 @@
 ---
 layout: default
-title: The EditGuesser Component
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "The EditGuesser Component"
 ---
 
 # `<EditGuesser>`

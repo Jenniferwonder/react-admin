@@ -1,8 +1,6 @@
 ---
 layout: default
-title: useShowContext
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "useShowContext"
 ---
 
 # `useShowContext`

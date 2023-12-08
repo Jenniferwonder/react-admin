@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Create_React-App Integration
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "Create_React-App Integration"
 ---
 
 # Create-React-App Integration

@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Advanced Tutorials
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "Advanced Tutorials"
 ---
 
 # Advanced Tutorials

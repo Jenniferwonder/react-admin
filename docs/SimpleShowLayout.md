@@ -1,8 +1,6 @@
 ---
 layout: default
-title: SimpleShowLayout
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "SimpleShowLayout"
 ---
 
 # `<SimpleShowLayout>`

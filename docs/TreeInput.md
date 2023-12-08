@@ -1,8 +1,6 @@
 ---
 layout: default
-title: The TreeInput Component
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "The TreeInput Component"
 ---
 
 # `<TreeInput>` Component

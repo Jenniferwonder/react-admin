@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Writing An Auth Provider
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "Writing An Auth Provider"
 ---
 
 # Writing An Auth Provider

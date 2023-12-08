@@ -1,8 +1,6 @@
 ---
 layout: default
-title: The ReferenceManyToManyField Component
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "The ReferenceManyToManyField Component"
 ---
 
 # `<ReferenceManyToManyField>`

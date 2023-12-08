@@ -1,8 +1,6 @@
 ---
 layout: default
-title: useGetListLive
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "useGetListLive"
 ---
 
 # `useGetListLive`

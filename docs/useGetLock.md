@@ -1,8 +1,6 @@
 ---
 layout: default
-title: useGetLock
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "useGetLock"
 ---
 
 # `useGetLock`

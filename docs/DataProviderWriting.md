@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Writing A Data Provider
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "Writing A Data Provider"
 ---
 
 # Writing A Data Provider

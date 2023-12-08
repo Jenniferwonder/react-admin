@@ -1,8 +1,6 @@
 ---
 layout: default
-title: useCreate
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "useCreate"
 ---
 
 # `useCreate`

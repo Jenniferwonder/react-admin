@@ -1,8 +1,6 @@
 ---
 layout: default
-title: AccordionForm
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "AccordionForm"
 ---
 
 # `<AccordionForm>`

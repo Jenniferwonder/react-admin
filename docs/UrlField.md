@@ -1,8 +1,6 @@
 ---
 layout: default
-title: The UrlField Component
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "The UrlField Component"
 ---
 
 # `<UrlField>`

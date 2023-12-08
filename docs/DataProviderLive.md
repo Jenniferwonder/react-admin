@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Real-Time Updates And Locks
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "Real-Time Updates And Locks"
 ---
 
 # Real-Time Updates And Locks

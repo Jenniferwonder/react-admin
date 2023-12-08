@@ -1,8 +1,6 @@
 ---
 layout: default
-title: My First Project Tutorial
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "My First Project Tutorial"
 ---
 
 # React-Admin Tutorial

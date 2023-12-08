@@ -1,8 +1,6 @@
 ---
 layout: default
-title: SX
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "SX"
 ---
 
 # The `sx` prop

@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Installing React-admin With Vite
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "Installing React-admin With Vite"
 ---
 
 # Installing React-admin With Vite

@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Form Validation
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "Form Validation"
 ---
 
 # Form Validation

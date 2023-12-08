@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Remix Integration
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "Remix Integration"
 ---
 
 # Remix Integration

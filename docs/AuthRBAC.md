@@ -1,8 +1,6 @@
 ---
 layout: default
-title: RBAC
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "RBAC"
 ---
 
 # Role-Based Access Control (RBAC)

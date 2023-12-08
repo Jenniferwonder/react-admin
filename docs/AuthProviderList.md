@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Supported Auth Provider Backends
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "Supported Auth Provider Backends"
 ---
 
 # Supported Auth Provider Backends

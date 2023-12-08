@@ -1,8 +1,6 @@
 ---
 layout: default
-title: useGetOne
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "useGetOne"
 ---
 
 # `useGetOne`

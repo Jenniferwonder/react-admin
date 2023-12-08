@@ -1,8 +1,6 @@
 ---
 layout: default
-title: The FunctionField Component
-DateStarted: 2023-12-08
-DateModified: 2023-12-08
+title: "The FunctionField Component"
 ---
 
 # `<FunctionField>`
